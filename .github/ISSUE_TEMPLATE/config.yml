@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Account, billing or API support
+    url: mailto:support@sahifa.dev
+    about: For anything about your account or the service itself, write to support@sahifa.dev.
