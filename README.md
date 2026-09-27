@@ -37,6 +37,17 @@ For fintechs and other regulated companies in the Kingdom there is a second reas
 
 Each example is a single file with no SDK: it uses the language's standard HTTP client (Python needs `requests`).
 
+## Official libraries
+
+| Language | Install | Repository |
+|---|---|---|
+| Node.js / TypeScript | `npm install sahifa` | [sahifa-node](https://github.com/gyorgy-gulyas/sahifa-node) |
+| Python | `pip install sahifa` | [sahifa-python](https://github.com/gyorgy-gulyas/sahifa-python) |
+| Laravel / PHP | `composer require sahifa/laravel` | [sahifa-laravel](https://github.com/gyorgy-gulyas/sahifa-laravel) |
+| n8n | Settings → Community Nodes → `n8n-nodes-sahifa` | [n8n-nodes-sahifa](https://github.com/gyorgy-gulyas/n8n-nodes-sahifa) |
+
+The examples below use plain HTTP, so they also work in any other language.
+
 ## Getting started
 
 1. Create a free account at [sahifa.dev](https://sahifa.dev/en/account). The Sandbox plan gives 100 renders a month (up to 10 a day) with a watermark, no card needed.
